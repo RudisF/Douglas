@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<produktu-saraksts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<record>
+		<manufacturer><![CDATA[RICH]]></manufacturer>
+		<name_of_store><![CDATA[Douglas]]></name_of_store>
+		<sku><![CDATA[474261600136]]></sku>
+		<name><![CDATA[Pure Luxury Argan Colour Protect Conditioner 750 ml]]></name>
+		<url_to_product><![CDATA[https://www.douglas.lv/lv/katalogs/rich-pure-luxury-argan-colour-protect-conditioner/]]></url_to_product>
+		<categories><![CDATA[Default Category/Health & Beauty/Personal Care/Cosmetics]]></categories>
+		<short_description><![CDATA[]]></short_description>
+		<price>28.49</price>
+		<base_image><![CDATA[https://www.douglas.lv/images/galleries/1499395583_rich-ck.PNG]]></base_image>
+		<small_image><![CDATA[https://www.douglas.lv/images/galleries/1499395583_rich-ck.PNG]]></small_image>
+		<thumbnail_image><![CDATA[https://www.douglas.lv/images/galleries/1499395583_rich-ck.PNG]]></thumbnail_image>
+	</record>
+	<record>
+		<manufacturer><![CDATA[RICH]]></manufacturer>
+		<name_of_store><![CDATA[Douglas]]></name_of_store>
+		<sku><![CDATA[474261600135]]></sku>
+		<name><![CDATA[Pure Luxury Argan Colour Protect Shampoo 750 ml]]></name>
+		<url_to_product><![CDATA[https://www.douglas.lv/lv/katalogs/rich-pure-luxury-argan-colour-protect-shampoo/]]></url_to_product>
+		<categories><![CDATA[Default Category/Health & Beauty/Personal Care/Cosmetics]]></categories>
+		<short_description><![CDATA[]]></short_description>
+		<price>26.49</price>
+		<base_image><![CDATA[https://www.douglas.lv/images/galleries/1499395032_rich-cs.PNG]]></base_image>
+		<small_image><![CDATA[https://www.douglas.lv/images/galleries/1499395032_rich-cs.PNG]]></small_image>
+		<thumbnail_image><![CDATA[https://www.douglas.lv/images/galleries/1499395032_rich-cs.PNG]]></thumbnail_image>
+	</record>
+</produktu-saraksts>
